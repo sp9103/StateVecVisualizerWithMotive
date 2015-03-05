@@ -1,0 +1,19 @@
+﻿빌드 시작: 2015-03-05 오전 11:02:09
+     1>2 노드의 "C:\Users\sp\Documents\MotiveStateVisualizer\NMsgrClnt\NMsgrClnt.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _ITERATOR_DEBUG_LEVEL=0 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NMsgrClnt.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt NMsgrClntDlg.cpp
+         NMsgrClntDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sp\Documents\MotiveStateVisualizer\Debug\NMsgrClnt.exe" /INCREMENTAL /NOLOGO Kinect20.lib Kinect20.Face.lib Kinect20.Fusion.lib glfw3.lib glfw3dll.lib opengl32.lib glu32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\sp\Documents\MotiveStateVisualizer\Debug\NMsgrClnt.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sp\Documents\MotiveStateVisualizer\Debug\NMsgrClnt.lib" /MACHINE:X86 Debug\NMsgrClnt.res
+         Debug\glBodyRenderer.obj
+         Debug\NMsgrClnt.obj
+         Debug\NMsgrClntDlg.obj
+         Debug\StateVecRecord.obj
+         Debug\stdafx.obj
+         Debug\Thread.obj
+         NMsgrClnt.vcxproj -> C:\Users\sp\Documents\MotiveStateVisualizer\Debug\NMsgrClnt.exe
+     1>"C:\Users\sp\Documents\MotiveStateVisualizer\NMsgrClnt\NMsgrClnt.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.82
